@@ -5,7 +5,8 @@ $(function(){
 		backgroundColor: '#999',
 		position: 'fixed',
 		top: 0,
-		right: 0
+		right: 0,
+		zIndex: 9999
 	});
 	widthSpan.appendTo($('body'));
 
